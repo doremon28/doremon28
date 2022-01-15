@@ -11,7 +11,7 @@
 
 ```Json
 {
-  "xDEVELYNNx" : {
+  "doremon28" : {
 
         "Pronouns" :     "He & Him",
 
@@ -19,7 +19,7 @@
 
         "Programming" :  "C, Shell, Oracle, Python, Java, Jee, Jsf, Jsp, Swing, Primefaces, Php",
 
-        "Framworks" :    "Hibernate, Spring IOC, Flask, Django, RestFramework API Django, Bootstrap",
+        "Framworks" :    "Spring Boot, Hibernate, Spring IOC, Flask, Django, RestFramework API Django, Bootstrap",
 
         "DataBase" :     "Oracle, MySql, PL/Sql",
 
