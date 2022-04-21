@@ -3,7 +3,7 @@
 </h2>
 <img align='right' src="https://media.giphy.com/media/S8ZHY5Y9ULhSAGPg50/source.gif" width="200">
 <p><em>COMPUTER SCIENCE STUDENT 
-<img class="align-bottom" src="https://media.giphy.com/media/xlCMfgDZjnA589CzCB/giphy.gif?cid=ecf05e47pkkfz1xant62wjdsh9jf81840fok3m1zz5dnyo0u&rid=giphy.gif&ct=s" width="40"></br>Developer Freelancer 
+  <img class="align-bottom" src="https://media.giphy.com/media/xlCMfgDZjnA589CzCB/giphy.gif?cid=ecf05e47pkkfz1xant62wjdsh9jf81840fok3m1zz5dnyo0u&rid=giphy.gif&ct=s" width="40"></br>Full Stack developer
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 </em></p>
 
